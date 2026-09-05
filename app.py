@@ -10,7 +10,7 @@ from google.genai import types
 from openai import OpenAI as GrokOpenAI
 
 GEMINI_MODEL = "gemini-3.5-flash-lite"
-GROK_REVIEW_MODEL = "grok-4.3"
+GROK_REVIEW_MODEL = "grok"
 
 # ============================================================
 # PAGE CONFIGURATION
